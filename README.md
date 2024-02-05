@@ -1,6 +1,6 @@
 Django Tutorial
 
-- [Introduction to Django] (#https://drive.google.com/file/d/1uCnaXqiIRRZwtHD0wciFzHN-oO4KlG2M/view?usp=sharing)
+- [Introduction to Django] (https://drive.google.com/file/d/1uCnaXqiIRRZwtHD0wciFzHN-oO4KlG2M/view?usp=sharing)
 - Data Storage In Django
 - Views
 - Django Url
